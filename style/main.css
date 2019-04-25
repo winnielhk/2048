@@ -343,7 +343,8 @@ hr {
     background: url(https://www.kafepauza.mk/wp-content/uploads/2016/07/2-frizurata-gi-menuva-k…jata-neverojatno-slatki-kuchinja-pred-i-po-shishanje-www.kafepauza.mk_.jpg);
     background-size: cover;
     color: aliceblue;
-    font-size: 1px; }
+    font-size: 1px;
+}
   .tile.tile-16 .tile-inner {
     background: url(https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80);
     background-size: cover;
@@ -355,11 +356,12 @@ hr {
     color: cadetblue;
     font-size: 1px; }
   .tile.tile-64 .tile-inner {
-    background: background: url(https://dynaimage.cdn.cnn.com/cnn/w_768,h_1024,c_scale/https%3A%2F%2Fdynaim…static.cnn.io%252F5b7ac48…%252Fshutterstock_1081879181.jpg);
+    background: url(https://dynaimage.cdn.cnn.com/cnn/w_768,h_1024,c_scale/https%3A%2F%2Fdynaim…static.cnn.io%252F5b7ac48…%252Fshutterstock_1081879181.jpg);
     background-size: cover;
     color: midnightblue;
     background-position-y: center;
-    font-size: 1px; }
+    font-size: 1px;
+}
   .tile.tile-128 .tile-inner {
     background: url(https://images.unsplash.com/photo-1536164261511-3a17e671d380?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=630&q=80);
     font-size: 1px;
