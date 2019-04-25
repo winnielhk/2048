@@ -334,8 +334,11 @@ hr {
     font-size: 1px;
     color: white; }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background: url(https://images.unsplash.com/photo-1537151672256-6caf2e9f8c95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2133&q=80);
+    background-size: cover;
+    background-position-y: bottom;
+    color: whitesmoke;
+    font-size: 1px; }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: #f2b179; }
